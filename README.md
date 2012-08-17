@@ -1,5 +1,7 @@
 # Puppet-Rbenv
 
+[![Build Status](https://secure.travis-ci.org/vjt/puppet-rbenv.png?branch=master)](http://travis-ci.org/vjt/puppet-rbenv)
+
 ## About
 
 This project provides manifests for the installation of
